@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CustomerCareApplication</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="write_us">Write to Us</string>
+    <string name="submit">Submit</string>
+    <string name="complaint_lbl">Your Complaint/Feedback*</string>
+    <string name="hint_complaint_lbl">Write Feedback</string>
+    <string name="customer_complaint">Customer Complain</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="warning_call_phone_permission">No calling permission accepted.</string>
+
+    <string name="customer_care_no">Our Customer Care Number\n1800 202 6182 / 1860 267 6182\nGet in touch with us for your concerns on our helpline number. Press call button below to contact.</string>
+</resources>
