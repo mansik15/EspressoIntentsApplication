@@ -65,13 +65,6 @@ class MainActivityTest {
 
     @Test
     fun clickCallButton_CallsCustomerCare() {
-        /*onView(withId(R.id.fab)).perform(click())
-        intended(
-            allOf(
-                hasAction(Intent.ACTION_CALL),
-            )
-        )*/
-
         // Build the result to return when the activity is launched.
         val resultData = Intent()
         val phoneNumber = "1800 202 6182"

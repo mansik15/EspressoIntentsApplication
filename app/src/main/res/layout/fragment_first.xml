@@ -53,7 +53,8 @@
         android:id="@+id/button_first"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/submit"
+        android:text="@string/send"
+        android:drawableRight="@android:drawable/sym_action_email"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -66,7 +67,7 @@
         android:text="@string/customer_care_no"
         android:textSize="14sp"
         android:textStyle="bold"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="25dp"
         android:layout_marginBottom="10dp"
         app:layout_constraintTop_toBottomOf="@id/button_first"
         app:layout_constraintStart_toStartOf="parent"/>

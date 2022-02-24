@@ -8,6 +8,7 @@
     <string name="previous">Previous</string>
     <string name="write_us">Write to Us</string>
     <string name="submit">Submit</string>
+    <string name="send">SEND</string>
     <string name="complaint_lbl">Your Complaint/Feedback*</string>
     <string name="hint_complaint_lbl">Write Feedback</string>
     <string name="customer_complaint">Customer Complain</string>
